@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Dashboard (Power BI)
+# 📊 Profit Dashboard (Power BI)
 
 ### 🔍 Overview
 
