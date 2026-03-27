@@ -5,7 +5,7 @@
 This project showcases an **interactive Sales and Profit Dashboard** built using **Power BI**.
 It provides insights into sales performance, profitability trends, and customer segments using data from the **Global Superstore dataset**.
 
-The goal is to help businesses make **data-driven decisions** by identifying top-performing regions, profitable product categories, and customer segments that contribute most to revenue and profit.
+The goal is to help businesses make **data-driven decisions** by identifying top-performing regions, profitable product categories, and customer segments that contribute most to the revenue and profit.
 
 ---
 
